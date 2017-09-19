@@ -2,37 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e44cc374-d0ea-4dd6-beee-8d9ae5467db4" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/01/mysite/contatos/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/01/mysite/contatos/admin.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/01/mysite/contatos/apps.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/01/mysite/contatos/migrations/0001_initial.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/01/mysite/contatos/migrations/0002_pessoa_telefone.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/01/mysite/contatos/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/01/mysite/contatos/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/01/mysite/contatos/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/01/mysite/contatos/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/01/mysite/db.sqlite3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/01/mysite/manage.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/01/mysite/mysite/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/01/mysite/mysite/settings.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/01/mysite/mysite/urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/01/mysite/mysite/wsgi.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lpc_evento/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lpc_evento/eventos/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lpc_evento/eventos/admin.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lpc_evento/eventos/apps.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lpc_evento/eventos/migrations/0001_initial.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lpc_evento/eventos/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lpc_evento/eventos/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lpc_evento/eventos/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lpc_evento/eventos/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lpc_evento/lpc_evento/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lpc_evento/lpc_evento/settings.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lpc_evento/lpc_evento/urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lpc_evento/lpc_evento/wsgi.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lpc_evento/manage.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/LPC.iml" afterPath="$PROJECT_DIR$/.idea/LPC.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,7 +12,64 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/agenda/agenda/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="23" column="4" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+              <folding>
+                <element signature="e#640#672#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/agenda/consultorio/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/agenda/consultorio/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="apps.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/agenda/consultorio/apps.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/agenda/consultorio/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="38" lean-forward="true" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -58,6 +84,10 @@
         <option value="$PROJECT_DIR$/01/mysite/mysite/settings.py" />
         <option value="$PROJECT_DIR$/02/lpc_evento/eventos/models.py" />
         <option value="$PROJECT_DIR$/02/lpc_evento/eventos/admin.py" />
+        <option value="$PROJECT_DIR$/agenda/consultorio/views.py" />
+        <option value="$PROJECT_DIR$/agenda/agenda/urls.py" />
+        <option value="$PROJECT_DIR$/agenda/consultorio/models.py" />
+        <option value="$PROJECT_DIR$/agenda/consultorio/admin.py" />
       </list>
     </option>
   </component>
@@ -121,6 +151,12 @@
               <item name="agenda" type="462c0819:PsiDirectoryNode" />
               <item name="agenda" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="LPC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LPC" type="462c0819:PsiDirectoryNode" />
+              <item name="agenda" type="462c0819:PsiDirectoryNode" />
+              <item name="consultorio" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -177,13 +213,21 @@
       <option name="project" value="LOCAL" />
       <updated>1503967674819</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="segundo commit">
+      <created>1505778764030</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1505778764030</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23645681" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23645681" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -212,7 +256,8 @@
     </ignored-roots>
     <MESSAGE value="commit sobre inicial.py" />
     <MESSAGE value="commit sobre aprendendo em programar em python" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit sobre aprendendo em programar em python" />
+    <MESSAGE value="segundo commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="segundo commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -293,5 +338,75 @@
     <entry file="file://$PROJECT_DIR$/01/mysite/contatos/admin.py" />
     <entry file="file://$PROJECT_DIR$/02/lpc_evento/eventos/admin.py" />
     <entry file="file://$PROJECT_DIR$/02/lpc_evento/eventos/models.py" />
+    <entry file="file://$PROJECT_DIR$/agenda/consultorio/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agenda/consultorio/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agenda/db.sqlite3">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/Python36-32/Lib/site-packages/django/db/models/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="588" column="0" lean-forward="false" selection-start-line="588" selection-start-column="0" selection-end-line="589" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agenda/consultorio/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agenda/agenda/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="78" column="37" lean-forward="false" selection-start-line="78" selection-start-column="37" selection-end-line="78" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agenda/agenda/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="23" column="4" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+          <folding>
+            <element signature="e#640#672#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agenda/consultorio/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="38" lean-forward="true" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
