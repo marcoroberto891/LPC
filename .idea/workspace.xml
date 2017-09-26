@@ -40,8 +40,8 @@
       <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/agenda/consultorio/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="549">
-              <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+            <state relative-caret-position="260">
+              <caret line="34" column="96" lean-forward="false" selection-start-line="34" selection-start-column="96" selection-end-line="34" selection-end-column="96" />
               <folding />
             </state>
           </provider>
@@ -250,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1506385021053</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="atualizando o trabalho 2">
+      <created>1506385458593</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1506385458593</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -309,7 +316,8 @@
     <MESSAGE value="segundo commit" />
     <MESSAGE value="nao foi dessa vez" />
     <MESSAGE value="atualizando o trabalho" />
-    <option name="LAST_COMMIT_MESSAGE" value="atualizando o trabalho" />
+    <MESSAGE value="atualizando o trabalho 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="atualizando o trabalho 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -495,8 +503,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/agenda/consultorio/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+        <state relative-caret-position="260">
+          <caret line="34" column="96" lean-forward="false" selection-start-line="34" selection-start-column="96" selection-end-line="34" selection-end-column="96" />
           <folding />
         </state>
       </provider>
