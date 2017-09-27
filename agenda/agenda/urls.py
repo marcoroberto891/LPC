@@ -18,8 +18,17 @@ from django.contrib import admin
 
 from django.conf.urls import url
 from django.contrib import admin
-##from consultorio.views import index
+from consultorio.views import listaTipos
+
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    ##url(r'^consultorio/', index, name='index')
+    url(r'^Tipos/', listaTipos,name='listaTipos'),
+    #url(r'^Compromissos/', index, name='index'),
+    #url(r'^Usuarios/', index, name='index'),
+    #url(r'^Agenda Compromissos/', index, name='index'),
+    #url(r'^Agenda Usuarios/', index, name='index')
+
+
 ]
+
+
